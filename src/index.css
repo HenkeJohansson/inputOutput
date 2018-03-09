@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+.input-output {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background-color: transparent;
+}

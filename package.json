@@ -1,0 +1,21 @@
+{
+  "name": "leethackwrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "quickstart",
+    "build": "quickbuild"
+  },
+  "author": "Henke",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.2"
+  },
+  "devDependencies": {
+    "quick-webpack": "^0.4.5"
+  },
+  "webpack": {
+    "entry": "src/index.js"
+  }
+}
